@@ -24,7 +24,7 @@
 - DAX
 
 ## Dashboard Preview
-[Computer Hardware Sales Dashboard](dashboard.png)
+![Computer Hardware Sales Dashboard](dashboard.png)
 
 ## Insights
 - Highest sales brand
